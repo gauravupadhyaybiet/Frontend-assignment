@@ -9,7 +9,7 @@ body {
   background: #fff;
 }
 
-/* Header */
+
 .header {
   width: 100%;
   max-width: 1440px;
@@ -47,7 +47,7 @@ body {
   text-decoration: none;
 }
 
-/* Hero */
+
 .hero {
   display: flex;
   justify-content: space-between;
@@ -139,7 +139,7 @@ body {
 }
 .resume-card img { width: 40px; }
 
-/* Features */
+
 .features {
   height: 708px;
   text-align: center;
@@ -186,7 +186,7 @@ body {
   line-height: 1.6;
 }
 
-/* Responsive */
+
 @media (max-width: 1024px) {
   .hero { flex-direction: column; height: auto; text-align: center; }
   .hero-left { padding: 0; }
